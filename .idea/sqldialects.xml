@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/01_list_productId_ProductName_and_join_with_categgoryName.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_products_supplier_cost_more_than_75.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/03_product_supplier_of_every_product.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_productsName_categoriesName_of_expensive.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_orders_shiped_to_germany.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_orders_that_ordered_Sasquatch Ale.sql" dialect="MySQL" />
+  </component>
+</project>

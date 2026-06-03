@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/01_list_productId_ProductName_and_join_with_categgoryName.sql" value="3a2fc40a-feb8-41ca-aedd-1ebe355f2392" />
+    <file url="file://$PROJECT_DIR$/02_products_supplier_cost_more_than_75.sql" value="3a2fc40a-feb8-41ca-aedd-1ebe355f2392" />
+    <file url="file://$PROJECT_DIR$/03_product_supplier_of_every_product.sql" value="3a2fc40a-feb8-41ca-aedd-1ebe355f2392" />
+    <file url="file://$PROJECT_DIR$/04_productsName_categoriesName_of_expensive.sql" value="3a2fc40a-feb8-41ca-aedd-1ebe355f2392" />
+    <file url="file://$PROJECT_DIR$/05_orders_shiped_to_germany.sql" value="3a2fc40a-feb8-41ca-aedd-1ebe355f2392" />
+    <file url="file://$PROJECT_DIR$/06_orders_that_ordered_Sasquatch Ale.sql" value="3a2fc40a-feb8-41ca-aedd-1ebe355f2392" />
+  </component>
+</project>
